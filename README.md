@@ -1,2 +1,2 @@
 # Woocommerce-ESI-Optimization-Plugin
-Dynamic ESI caching for woocommerce
+Dynamic ESI Fragment caching for Woocommerce
